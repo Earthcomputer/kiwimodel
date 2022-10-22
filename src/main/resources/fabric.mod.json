@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "kiwimodel",
+  "version": "${version}",
+  "name": "Kiwi Model",
+  "description": "Changes the chicken model to a kiwi model",
+  "authors": [
+    "Earthcomputer",
+    "oronus"
+  ],
+  "contact": {
+    "repo": "https://github.com/Earthcomputer/kiwimodel"
+  },
+  "license": "MIT",
+  "icon": "assets/kiwimodel/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.earthcomputer.kiwimodel.KiwimodelClient"
+    ]
+  },
+  "mixins": [
+    "kiwimodel.mixins.json"
+  ],
+  "accessWidener": "kiwimodel.aw",
+  "depends": {
+    "minecraft": "1.18.x"
+  }
+}

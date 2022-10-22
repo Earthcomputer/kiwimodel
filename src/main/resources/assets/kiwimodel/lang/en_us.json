@@ -1,0 +1,10 @@
+{
+  "item.minecraft.chicken": "Raw Kiwi",
+  "item.minecraft.cooked_chicken": "Cooked Kiwi",
+  "item.minecraft.chicken_spawn_egg": "Kiwi Spawn Egg",
+  "entity.minecraft.chicken": "Kiwi",
+  "subtitles.entity.chicken.ambient": "Kiwi calls",
+  "subtitles.entity.chicken.death": "Kiwi dies",
+  "subtitles.entity.chicken.egg": "Kiwi plops",
+  "subtitles.entity.chicken.hurt": "Kiwi hurts"
+}
