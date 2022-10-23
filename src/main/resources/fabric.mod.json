@@ -24,6 +24,5 @@
   ],
   "accessWidener": "kiwimodel.aw",
   "depends": {
-    "minecraft": "1.18.x"
   }
 }
